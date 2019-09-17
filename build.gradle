@@ -115,7 +115,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "horse-stats",
+            "Specification-Title": "HorseStats",
             "Specification-Vendor": "zeblade",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,
